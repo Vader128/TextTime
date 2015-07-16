@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "david.kersten@gmail.com",
+    "longName": "TextTime",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Pebble.png",
+                "name": "WATCH_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TextTime",
+    "uuid": "77495be4-7e8c-49c0-991f-192c8f19a5d1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
